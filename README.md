@@ -28,9 +28,7 @@ I'm a passionate **Software Engineer** with 4+ years of experience in building E
 
 ### 📫 How to reach me:
 - 📧 Email: **abigi28@hotmail.com**
-- 🌐 LinkedIn: [linkedin.com/in/arfibintang](https://www.linkedin.com/in/arfibintang) *(optional if you have one)*
-- 🌍 Portfolio / website: *(if available)*
-
+- 🌐 LinkedIn: [linkedin.com/in/arfibintang](https://www.linkedin.com/in/arfibintang)
 ---
 
 <!---
